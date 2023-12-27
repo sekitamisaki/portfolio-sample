@@ -15,7 +15,7 @@ img{
   vertical-align: bottom;
 }
 a{
-  /* color: inherit; */
+  color: inherit;
   text-decoration: none;
 }
 .header{
@@ -30,6 +30,12 @@ a{
     font-size: 56px;
     margin-bottom: 10px;
     color: #181e6b;
+  }
+}
+
+.profile{
+  .header>h1{
+    color: #000;
   }
 }
 
