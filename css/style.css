@@ -34,9 +34,14 @@ a{
 }
 
 .profile{
+  .header{
+    background: url(../img/profile-top.jpg) no-repeat center bottom;
+
+  }
   .header>h1{
     color: #000;
   }
+  
 }
 
 .gnav{
